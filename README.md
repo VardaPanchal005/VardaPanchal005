@@ -10,7 +10,7 @@ My name is Varda Panchal<br><br>Currently on a quest to become a skilled program
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VardaPanchal005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=VardaPanchal005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VardaPanchal005&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VardaPanchal005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
