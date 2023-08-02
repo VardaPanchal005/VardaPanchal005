@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Varda Panchal<br><br>Currently on a quest to become a skilled programmer, Always eager to explore new technologies and expanding my problem-solving abilities. With the tech industry offering endless possibilities, I'm excited for the challenges, growth, and the chance to make a meaningful impact through my work.<br><br>* 🌍  I'm based in India<br>* ✉️  You can contact me at [vardapanchal@gmail.com](mailto:vardapanchal@gmail.com)<br>* 🧠  I'm learning Postman API fundamentals and Machine Learning<br>* 🤝  I'm open to collaborating on Innovative projects
+My name is Varda Panchal<br><br>Currently on a quest to become a skilled programmer, Always eager to explore new technologies and expanding my problem-solving abilities. With the tech industry offering endless possibilities, I'm excited for the challenges, growth, and the chance to make a meaningful impact through my work.<br><br>* 🌍  I'm based in India<br>* ✉️  You can contact me at [vardapanchal@gmail.com](mailto:vardapanchal@gmail.com)<br>* 🧠  I'm learning Data Science and Machine Learning<br>* 🤝  I'm open to collaborating on Innovative projects
 
 
 ## 🌐 Socials:
