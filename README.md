@@ -24,4 +24,4 @@ Here is my portfolio https://varda-portfolio.vercel.app/
 ![](https://github-profile-trophy.vercel.app/?username=vardapanchal005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vardapanchal005&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VardaPanchal005&icon=9&color=1)](https://visitcount.itsvg.in)
